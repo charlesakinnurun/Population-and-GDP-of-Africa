@@ -1,6 +1,5 @@
 ### Data Cleaning and Preprocessing
 ```python
-from matplotlib.pyplot import prism
 import pandas as pd
 
 # Load the dataframe.
